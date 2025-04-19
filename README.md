@@ -45,7 +45,7 @@ LICENSE
 
 ## About medicX-KG
 
-MedicX-KG addresses pharmacist decision support challenges in small jurisdictions that are aligned with EU law but face supply chain and regulatory particularities (e.g., continued reliance on UK imports post-Brexit).
+medicX-KG addresses pharmacist decision support challenges in small jurisdictions that are aligned with EU law but face supply chain and regulatory particularities (e.g., continued reliance on UK imports post-Brexit).
 
 For details, refer to our manuscript: *medicX-KG: A Knowledge Graph for Pharmacists' Drug Information Needs*.
 
