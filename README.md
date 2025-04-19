@@ -1,4 +1,4 @@
-# medicX-KG: A Jurisdiction-Aware Knowledge Graph for Pharmacist Decision Support
+# medicX-KG: A Knowledge Graph for Pharmacists' Drug Information Needs
 
 This repository contains sample files, mapping scripts, and data subsets from the medicX-KG project, aimed at constructing a pharmacist-oriented biomedical knowledge graph with regulatory awareness specific to small EU markets such as Malta.
 
